@@ -1,4 +1,3 @@
-//код для передвижения
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -57,3 +56,4 @@ public class PlayerScript2D : MonoBehaviour
     }
 
 }   
+
